@@ -1,5 +1,10 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE1NzUwOTIsIm5iZiI6MTcyMTU3NDc5MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIxVDE1MTMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4NTE5YjM0ZTM4NWY1ODY4Mjk5YmQzMzRkMjhhN2I2YWFkMTEwYzk5NjIzMWQxMDRmNjk1YjhjMDk2YTIxNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.D4f13SlvbsQz9-3VsbdPAz5iV9zGBCFyr5aCComXH1g)]
-<h1 align="center">Hi 👋, I'm Mitch Lauren Santillan</h1>
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="https://i.pinimg.com/originals/d8/8d/30/d88d306a069f52ea9367ba181cf72632.gif" alt="MasterHead" height="100" width="100%"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1 style="margin: 0;">Hi 👋, I'm Mitch Lauren Santillan</h1>
+  </div>
+</div>
+
 <h3 align="center">A Computer Engineering student from the Philippines</h3>
 <h4 align="center">-------------------------------------------------------------------------------------------------------------------</h4>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
