@@ -34,7 +34,8 @@
   </tr>
 </table>
 
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurenx122&" alt="laurenx122"/>
+<div style="width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurenx122&" alt="laurenx122" style="width: 100%; height: auto;"/>
 </div>
+
 
