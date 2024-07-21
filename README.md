@@ -24,6 +24,6 @@
 <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurenx122&show_icons=true&locale=en&layout=compact" alt="laurenx122" width="400" height="200"/></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=laurenx122&show_icons=true&locale=en" alt="laurenx122" width="450" height="200"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=laurenx122&show_icons=true&locale=en" alt="laurenx122" width="420" height="200"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laurenx122&" alt="laurenx122" /></p>
