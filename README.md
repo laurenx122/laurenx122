@@ -1,7 +1,7 @@
 <div align="center" style="position: relative; display: inline-block;">
   <img src="https://i.pinimg.com/originals/d8/8d/30/d88d306a069f52ea9367ba181cf72632.gif" alt="MasterHead" height="100" width="100%"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <h1 style="margin: 0;">Hi 👋, I'm Mitch Lauren Santillan</h1>
+    <h1 style="margin: 0;">Hi 👋, I'm Lauren</h1>
   </div>
 </div>
 
