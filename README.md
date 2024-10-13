@@ -7,7 +7,8 @@
 
 <h3 align="center">A Computer Engineering Student from the Philippines</h3>
 <h4 align="center">-------------------------------------------------------------------------------------------------------------------</h4>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurenx122&label=Profile%20views&color=0e75b6&style=flat" alt="laurenx122" /> </p>
 
